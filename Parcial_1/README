@@ -1,2 +1,7 @@
 Descomprimir triqui.rar y Ejecutar el archivo Main.py.
 Se debe disponer del paquete Pygame.
+Disponer de python ultima version y agregado al PATH.
+Para Descargar Pygame se puede hacer con pip y el cmd de windows.
+Se escribe en el cmd "pip install pygame" y el paquete pygame se instalara solo.
+Despues de esto se puede ejecutar el Main.py normal.
+
